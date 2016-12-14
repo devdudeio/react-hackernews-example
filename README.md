@@ -1,6 +1,3 @@
-#hackernews client from
+#simple react hackernews client
 
-(http://www.robinwieruch.de/the-road-to-learn-react/)
-
-
-should be deployable with now.sh but seems like there is an [issue] with react-scripts > 0.7.0
+guided by the ebook [The-road-to-learn-react](http://www.robinwieruch.de/the-road-to-learn-react/) from [rwieruch](https://github.com/rwieruch)

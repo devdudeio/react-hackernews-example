@@ -1,6 +1,9 @@
 {
   "name": "hackernews",
   "version": "0.1.0",
+  "engines": {
+    "node": "7.0.0"
+  },
   "private": true,
   "devDependencies": {
     "react-scripts": "0.8.4"
